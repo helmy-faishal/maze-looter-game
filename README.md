@@ -25,5 +25,10 @@ Mainkan game yang tersebut [disini](https://helmy-faishal.github.io/maze-looter-
 * Gunakan tombol <kbd>F</kbd> untuk melakukan interaksi dengan objek
 
 # Skill
-1. **Stealth** = Saat digunakan akan menghapus semua kewaspadaan musuh dan membuat pemain tidak dapat dideteksi musuh selama beberapa waktu. Skill akan berlangsung selama 3 detik
-2. {Skill lain sedang dalam pengembangan}
+1. **Stealth** = Saat digunakan akan menghapus semua kewaspadaan musuh dan membuat pemain tidak dapat dideteksi musuh selama 3 detik. Skill dapat digunakan 5 kali
+
+## Skill dalam pengembangan
+1. **Revive** = Saat pemain mati, akan langsung hidup kembali dan membuat pemain tidak dapat dideteksi musuh selama 15 detik. Skill hanya dapat digunakan 1 kali
+
+## Skill dalam rancangan
+1. **Teleport** = Pemain meletakkan 1 titik perpindahan, titik yang sudah diletakkan dapat diambil kembali dan dipindah, jarak teleportasi tidak terbatas. Tekan tombol untuk meletakkan dan mengambil kembali titik perpindahan, tahan tombol untuk menggunakan skill. Skill hanya dapat digunakan saat ada titik perpindahan. Terdapat jeda waktu saat menggunakan skill dan dapat diserang musuh. Skill hanya dapat digunakan 1 kali
