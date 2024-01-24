@@ -2,6 +2,7 @@
 Game ini memiliki tujuan untuk menjelajahi labirin dan mengambil harta karun yang berada di dalam labirin. Namun hati-hati agar tidak diketahui oleh penjaga labirin yang dapat mengejarmu serta menyerang dan mengalahkanmu
 
 Mainkan game yang tersebut [disini](https://helmy-faishal.github.io/maze-looter-game/)
+* {Game masih dalam pengembangan}
 
 # Cara Bermain
 * Mainkan game dalam posisi Landscape (Untuk saat ini hanya mendukung input keyboard)
@@ -13,6 +14,7 @@ Mainkan game yang tersebut [disini](https://helmy-faishal.github.io/maze-looter-
 * Jauhi musuhmu untuk menurunkan kewaspadaan musuh dan membuat musuh berhenti mengejarmu
 * Selama mengejarmu, pada jarak tertentu musuh akan mulai menyerangmu
 * Jika terkena serangan maka akan mengurangi darahmu
+* Setelah mengambil harta karun, maka setelah 2 detik musuh akan bergerak ke ruang harta karun dan jangkauan deteksi musuh meningkat sebesar 25%
 * Manfaatkan mini map untuk menjelajahi labirin dan menghindari musuh
 
 # Kontrol
@@ -28,6 +30,4 @@ Mainkan game yang tersebut [disini](https://helmy-faishal.github.io/maze-looter-
 1. **Sprint** = Meningkatkan kecepatan pemain sebesar 50% selama 5 detik. Skill dapat digunakan 5 kali
 2. **Stealth** = Menghapus semua kewaspadaan musuh dan membuat pemain tidak dapat dideteksi musuh selama 3 detik. Skill dapat digunakan 5 kali
 3. **Revive** = Saat pemain mati, akan langsung hidup kembali dan membuat pemain tidak dapat dideteksi musuh selama 15 detik. Skill hanya dapat digunakan 1 kali 
-
-## Skill dalam rancangan
-1. **Teleport** = Pemain meletakkan 1 titik perpindahan, titik yang sudah diletakkan dapat diambil kembali dan dipindah, jarak teleportasi tidak terbatas. Tekan tombol untuk meletakkan dan mengambil kembali titik perpindahan, tahan tombol untuk menggunakan skill. Skill hanya dapat digunakan saat ada titik perpindahan. Terdapat jeda waktu saat menggunakan skill dan dapat diserang musuh. Skill hanya dapat digunakan 1 kali
+4. **Teleport** = Tekan tombol skill untuk meletakkan/mengambil titik teleportasi, hanya dapat meletakkan 1 titik dalam satu waktu. Tahan tombol skill untuk menggunakan skill, skill hanya dapat digunakan jika terdapat titik perpindahan. Saat menggunakan skill, terdapat jeda selama 5 detik sebelum dan 2 detik sesudah teleportasi, dan selama itu pemain tidak dapat bergerak. Skill hanya dapat digunakan 1 kali
